@@ -1,0 +1,6 @@
+*.pyc
+*.txt
+
+logs
+data/*
+__pycache__
